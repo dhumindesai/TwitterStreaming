@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="997c3a0e-0057-4d44-a326-d5a4d8f52813" name="AIRIS" url="http://10.21.10.195">
+        <fileTransfer host="10.21.10.195" port="22" rootFolder="/home/dhrumin" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
